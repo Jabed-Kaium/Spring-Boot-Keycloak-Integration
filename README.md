@@ -1,4 +1,4 @@
-### Full tutorial [here](https://reflective-attraction-460.notion.site/SpringBoot-Integration-with-Keycloak-16efbe17ae7480948d22f66a7afcf616))
+### Full tutorial [here](https://reflective-attraction-460.notion.site/SpringBoot-Integration-with-Keycloak-16efbe17ae7480948d22f66a7afcf616)
 
 #### Reference article
 [Integrating Keycloak with Spring Boot 3: Authentication and Authorization using OAuth2.0 & OpenID Connect](https://levelup.gitconnected.com/integrating-keycloak-with-spring-boot-3-authentication-and-authorization-using-oauth2-0-6d3a2376f672)
